@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+
+.bosh{
+    margin: auto;
+    width: 630px;
+}
+
+.bt{
+    background-color: rgb(4, 181, 252);
+    color: rgb(0, 0, 0);
+    border: none;
+    width: 680px;
+    height: 50px;
+    font-size: 15px;   
+}
+
+p{
+    width: 60px;
+    font-size: 50px;
+    margin-left: 15px;
+    color: white;
+}
+
+.main{
+    display: flex;
+}
+
+.second{
+    height: 40px;
+    margin: 40px;
+    input{
+        margin: 5px 0 20px 74%;
+    }
+}
+
+#first_number{
+    padding: 10px;
+    width: 300px;
+}
+
+#last_number{
+    padding: 10px;
+    width: 300px;
+}
